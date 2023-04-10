@@ -29,6 +29,12 @@ const Navbar = () => {
             >
               <li>
                 <button className="btn btn-ghost">
+                  <Link to="/">Home</Link>
+                </button>
+              </li>
+
+              <li>
+                <button className="btn btn-ghost">
                   <Link to="/statistics">Statistics</Link>
                 </button>
               </li>
@@ -54,6 +60,12 @@ const Navbar = () => {
 
         <div className="navbar-center hidden lg:flex">
           <ul className="menu menu-horizontal px-1 mr-12 xl:mr-16">
+            <li>
+              <button className="btn btn-ghost">
+                <Link to="/">Home</Link>
+              </button>
+            </li>
+
             <li>
               <button className="btn btn-ghost">
                 <Link to="/statistics">Statistics</Link>
