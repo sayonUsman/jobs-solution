@@ -13,7 +13,11 @@ const router = createBrowserRouter([
     path: "/",
     element: <Main></Main>,
     children: [
-      { path: "/", element: <Home></Home> },
+      {
+        path: "/",
+        element: <Home></Home>,
+        loader: () => fetch("../fakeData/job-category-list.json"),
+      },
       { path: "/statistics", element: <Statistics></Statistics> },
       { path: "/appliedJobs", element: <AppliedJobs></AppliedJobs> },
       { path: "/blog", element: <Blog></Blog> },
