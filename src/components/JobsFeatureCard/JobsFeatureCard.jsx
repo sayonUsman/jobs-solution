@@ -25,6 +25,7 @@ const JonbsFeatureCard = (props) => {
         </p>
         <p className="text-lg md:text-lg font-semibold">Address: {address}</p>
         <p className="text-lg md:text-lg font-semibold">Salary: {salary}</p>
+        <button className="btn rounded w-36 md:w-48 mt-3">View Details</button>
       </div>
     </div>
   );
