@@ -1,0 +1,62 @@
+[
+  {
+    "id": "1",
+    "logo": "../../src/assets/logo/google.png",
+    "jobTitle": "Software Engineer",
+    "employer": "Google",
+    "location": "Remote",
+    "workTime": "Full Time",
+    "address": "Silicon Valley, California",
+    "salary": "100K - 275K"
+  },
+  {
+    "id": "2",
+    "logo": "../../src/assets/logo/netflix.png",
+    "jobTitle": "Network Engineer",
+    "employer": "Netflix",
+    "location": "Onsite",
+    "workTime": "Full Time",
+    "address": "Los Gatos, California",
+    "salary": "100K - 225K"
+  },
+  {
+    "id": "3",
+    "logo": "../../src/assets/logo/tesla.png",
+    "jobTitle": "Mechanical Engineer",
+    "employer": "Tesla",
+    "location": "Onsite",
+    "workTime": "Full Time",
+    "address": "Sydney, Australia",
+    "salary": "125K - 295K"
+  },
+  {
+    "id": "4",
+    "logo": "../../src/assets/logo/airbnb.png",
+    "jobTitle": "Database Engineer",
+    "employer": "Airbnb",
+    "location": "Onsite",
+    "workTime": "Full Time",
+    "address": "Los Angeles, California",
+    "salary": "75K - 195K"
+  },
+  {
+    "id": "5",
+    "logo": "../../src/assets/logo/google.png",
+    "jobTitle": "Database Engineer",
+    "employer": "Google",
+    "location": "Onsite",
+    "workTime": "Full Time",
+    "address": "Berlin, Germany",
+    "salary": "95K - 215K"
+  },
+  {
+    "id": "6",
+    "logo": "../../src/assets/logo/tesla.png",
+    "jobTitle": "Electrical Engineer",
+    "employer": "Tesla",
+    "location": "Onsite",
+    "workTime": "Full Time",
+    "address": "Tokyo, Japan",
+    "salary": "125K - 295K"
+  }
+]
