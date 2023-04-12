@@ -4,12 +4,11 @@ const jobDetailsLoader = async (jobId) => {
   let jobDetail = {};
 
   details.map((detail) => {
-    for (const id in detail) {
-      if (detail.id == jobId) {
-        jobDetail = detail;
-      }
+    if (detail.id == jobId) {
+      jobDetail = detail;
     }
   });
+
   return jobDetail;
 };
 
