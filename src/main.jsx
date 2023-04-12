@@ -8,6 +8,8 @@ import Statistics from "./components/Statistics/Statistics";
 import AppliedJobs from "./components/AppliedJobs/AppliedJobs";
 import Blog from "./components/Blog/Blog";
 import JobsFeatures from "./components/JobsFeatures/JobsFeatures";
+import JobDetails from "./components/JobDetails/JobDetails";
+import jobDetailsLoader from "./loader/jobDetailsLoader";
 
 const router = createBrowserRouter([
   {
@@ -29,6 +31,11 @@ const router = createBrowserRouter([
       { path: "/statistics", element: <Statistics></Statistics> },
       { path: "/appliedJobs", element: <AppliedJobs></AppliedJobs> },
       { path: "/blog", element: <Blog></Blog> },
+      {
+        path: "/job-details/:jobId",
+        element: <JobDetails></JobDetails>,
+        loader: ({ params }) => jobDetailsLoader(params.jobId),
+      },
     ],
   },
 ]);

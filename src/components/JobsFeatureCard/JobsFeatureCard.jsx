@@ -1,7 +1,8 @@
 import React from "react";
+import { Link } from "react-router-dom";
 
 const JonbsFeatureCard = (props) => {
-  const { logo, jobTitle, employer, location, workTime, address, salary } =
+  const { id, logo, jobTitle, employer, location, workTime, address, salary } =
     props.features;
 
   return (
@@ -25,7 +26,9 @@ const JonbsFeatureCard = (props) => {
         </p>
         <p className="text-lg md:text-lg font-semibold">Address: {address}</p>
         <p className="text-lg md:text-lg font-semibold">Salary: {salary}</p>
-        <button className="btn rounded w-36 md:w-48 mt-3">View Details</button>
+        <button className="btn rounded w-36 md:w-48 mt-3">
+          <Link to={`/job-details/${id}`}>View Details</Link>
+        </button>
       </div>
     </div>
   );
