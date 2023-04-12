@@ -1,7 +1,7 @@
 [
   {
     "id": "1",
-    "logo": "../../src/assets/logo/google.png",
+    "logo": "https://images.unsplash.com/photo-1573804633927-bfcbcd909acd?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1527&q=80",
     "jobTitle": "Software Engineer",
     "jobDescription": "A UI/UX (User Interface/User Experience) designer is responsible for designing and creating engaging and effective interfaces for software and web applications. This includes designing the layout, visual design, and interactivity of the user interface.",
     "jobResponsibility": "Collaborating with cross-functional teams: UI/UX designers often work closely with other teams, including product management, engineering, and marketing, to ensure that the user interface is aligned with business and technical requirements. You will need to be able to effectively communicate your design ideas and gather feedback from other team members.",
@@ -15,7 +15,7 @@
   },
   {
     "id": "2",
-    "logo": "../../src/assets/logo/netflix.png",
+    "logo": "https://images.unsplash.com/photo-1621955964441-c173e01c135b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2086&q=80",
     "jobTitle": "Network Engineer",
     "jobDescription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quibusdam sint ex fugiat quidem, modi aliquam similique pariatur optio ipsam aspernatur dolor porro in, consectetur ipsa totam asperiores molestiae sapiente placeat. Nemo nesciunt ipsam culpa ad libero excepturi dicta, quos laudantium dolor debitis voluptas qui praesentium exercitationem eveniet similique suscipit. Itaque?",
     "jobResponsibility": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Laborum cum similique perspiciatis possimus mollitia nostrum, alias optio consequatur repudiandae ad inventore quam quisquam, aperiam ullam nisi, ipsam iste in facere fugit. Commodi, eius odio quas, velit fugit nemo consequuntur ab in quasi dicta unde ipsa!",
@@ -25,11 +25,11 @@
     "location": "Onsite",
     "workTime": "Full Time",
     "address": "Los Gatos, California",
-    "salary": "100K - 225K"
+    "salary": "120K - 225K"
   },
   {
     "id": "3",
-    "logo": "../../src/assets/logo/tesla.png",
+    "logo": "https://images.unsplash.com/photo-1612810806695-30f7a8258391?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80",
     "jobTitle": "Mechanical Engineer",
     "jobDescription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quibusdam sint ex fugiat quidem, modi aliquam similique pariatur optio ipsam aspernatur dolor porro in, consectetur ipsa totam asperiores molestiae sapiente placeat. Nemo nesciunt ipsam culpa ad libero excepturi dicta, quos laudantium dolor debitis voluptas qui praesentium exercitationem eveniet similique suscipit. Itaque?",
     "jobResponsibility": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Laborum cum similique perspiciatis possimus mollitia nostrum, alias optio consequatur repudiandae ad inventore quam quisquam, aperiam ullam nisi, ipsam iste in facere fugit. Commodi, eius odio quas, velit fugit nemo consequuntur ab in quasi dicta unde ipsa!",
@@ -43,21 +43,21 @@
   },
   {
     "id": "4",
-    "logo": "../../src/assets/logo/airbnb.png",
+    "logo": "https://images.unsplash.com/photo-1585184394271-4c0a47dc59c9?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1471&q=80",
     "jobTitle": "Database Engineer",
     "jobDescription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quibusdam sint ex fugiat quidem, modi aliquam similique pariatur optio ipsam aspernatur dolor porro in, consectetur ipsa totam asperiores molestiae sapiente placeat. Nemo nesciunt ipsam culpa ad libero excepturi dicta, quos laudantium dolor debitis voluptas qui praesentium exercitationem eveniet similique suscipit. Itaque?",
     "jobResponsibility": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Laborum cum similique perspiciatis possimus mollitia nostrum, alias optio consequatur repudiandae ad inventore quam quisquam, aperiam ullam nisi, ipsam iste in facere fugit. Commodi, eius odio quas, velit fugit nemo consequuntur ab in quasi dicta unde ipsa!",
     "education": "Bachelor Degree to Complete from any Reputation University.",
     "experience": "3-4 years in field.",
-    "employer": "Airbnb",
+    "employer": "Apple",
     "location": "Onsite",
     "workTime": "Full Time",
     "address": "Los Angeles, California",
-    "salary": "75K - 195K"
+    "salary": "115K - 315K"
   },
   {
     "id": "5",
-    "logo": "../../src/assets/logo/google.png",
+    "logo": "https://images.unsplash.com/photo-1573804633927-bfcbcd909acd?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1527&q=80",
     "jobTitle": "Database Engineer",
     "jobDescription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quibusdam sint ex fugiat quidem, modi aliquam similique pariatur optio ipsam aspernatur dolor porro in, consectetur ipsa totam asperiores molestiae sapiente placeat. Nemo nesciunt ipsam culpa ad libero excepturi dicta, quos laudantium dolor debitis voluptas qui praesentium exercitationem eveniet similique suscipit. Itaque?",
     "jobResponsibility": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Laborum cum similique perspiciatis possimus mollitia nostrum, alias optio consequatur repudiandae ad inventore quam quisquam, aperiam ullam nisi, ipsam iste in facere fugit. Commodi, eius odio quas, velit fugit nemo consequuntur ab in quasi dicta unde ipsa!",
@@ -67,11 +67,11 @@
     "location": "Onsite",
     "workTime": "Full Time",
     "address": "Berlin, Germany",
-    "salary": "95K - 215K"
+    "salary": "95K - 295K"
   },
   {
     "id": "6",
-    "logo": "../../src/assets/logo/tesla.png",
+    "logo": "https://images.unsplash.com/photo-1612810806695-30f7a8258391?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80",
     "jobTitle": "Electrical Engineer",
     "jobDescription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quibusdam sint ex fugiat quidem, modi aliquam similique pariatur optio ipsam aspernatur dolor porro in, consectetur ipsa totam asperiores molestiae sapiente placeat. Nemo nesciunt ipsam culpa ad libero excepturi dicta, quos laudantium dolor debitis voluptas qui praesentium exercitationem eveniet similique suscipit. Itaque?",
     "jobResponsibility": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Laborum cum similique perspiciatis possimus mollitia nostrum, alias optio consequatur repudiandae ad inventore quam quisquam, aperiam ullam nisi, ipsam iste in facere fugit. Commodi, eius odio quas, velit fugit nemo consequuntur ab in quasi dicta unde ipsa!",
@@ -81,6 +81,6 @@
     "location": "Onsite",
     "workTime": "Full Time",
     "address": "Tokyo, Japan",
-    "salary": "125K - 295K"
+    "salary": "125K - 275K"
   }
 ]

@@ -6,12 +6,12 @@ const JonbsFeatureCard = (props) => {
     props.features;
 
   return (
-    <div className="card card-compact rounded w-100 m-2 md:p-0 bg-base-100 shadow-xl">
+    <div className="card card-compact rounded-lg w-100 m-2 md:p-0 bg-base-100 shadow-xl">
       <figure>
         <img
           src={logo}
           alt="There is a image available"
-          className="w-48 h-12"
+          className="h-96 w-full"
         />
       </figure>
 
