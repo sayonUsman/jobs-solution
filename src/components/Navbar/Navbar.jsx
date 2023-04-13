@@ -87,7 +87,7 @@ const Navbar = () => {
         </div>
 
         <button className="btn btn-xs sm:btn-sm md:btn-md lg:btn-lg btn-outline rounded">
-          Star Applying
+          Start Applying
         </button>
       </div>
     </div>
