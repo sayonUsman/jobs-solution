@@ -1,8 +1,13 @@
 import React from "react";
 import { useLoaderData } from "react-router-dom";
+import { addToDb } from "../../utilities/db";
 
 const JobDetails = () => {
   const details = useLoaderData();
+
+  const addToAppliedJob = (id) => {
+    addToDb(id);
+  };
 
   return (
     <div className="container mx-auto">
@@ -39,7 +44,12 @@ const JobDetails = () => {
               <p className="font-semibold">Address: {details.address}</p>
 
               <div className="card-actions justify-end mt-7">
-                <button className="btn rounded">Apply Now</button>
+                <button
+                  className="btn rounded"
+                  onClick={() => addToAppliedJob(details.id)}
+                >
+                  Apply Now
+                </button>
               </div>
             </div>
           </div>
